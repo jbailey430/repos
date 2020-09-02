@@ -1,0 +1,7 @@
+C:\Users\JAKEBAILEY30\source\repos\assingmentPg121\assingmentPg121\obj\Debug\assingmentPg121.csprojAssemblyReference.cache
+C:\Users\JAKEBAILEY30\source\repos\assingmentPg121\assingmentPg121\obj\Debug\assingmentPg121.csproj.CoreCompileInputs.cache
+C:\Users\JAKEBAILEY30\source\repos\assingmentPg121\assingmentPg121\bin\Debug\assingmentPg121.exe.config
+C:\Users\JAKEBAILEY30\source\repos\assingmentPg121\assingmentPg121\bin\Debug\assingmentPg121.exe
+C:\Users\JAKEBAILEY30\source\repos\assingmentPg121\assingmentPg121\bin\Debug\assingmentPg121.pdb
+C:\Users\JAKEBAILEY30\source\repos\assingmentPg121\assingmentPg121\obj\Debug\assingmentPg121.exe
+C:\Users\JAKEBAILEY30\source\repos\assingmentPg121\assingmentPg121\obj\Debug\assingmentPg121.pdb
